@@ -8,7 +8,7 @@ In this repo, I developed a novel deep learning approach for classifying Persian
 
 ## Dataset
 
-The dataset used in this project consists of 51,744 images of Persian alphabets and numbers. The images are organized into folders based on their corresponding labels, making it suitable for training and evaluating machine learning models for Persian alphabet classification.
+The dataset used in this project consists of 51,744 images of Persian alphabets and numbers. The images are organized into folders based on their corresponding labels, making it suitable for training and evaluating machine learning models for Persian alphabet classificatiaon.
 
 You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/mostafamohammadi1/persian-alphabets-and-numbers).
 
@@ -46,6 +46,10 @@ pip install jupyter tensorflow numpy matplotlib seaborn scikit-learn
 3. Download the dataset
 4. Navigate to the `model/notebook.ipynb`
 5. Run all the cells
+
+## Additional Resources
+
+Check out the Kaggle notebook for Persian Alphabet Classification using CNN and LSTM: [Kaggle Notebook](https://www.kaggle.com/code/gowrivinaykamalakars/persian-alphabet-classification-using-cnn-and-lstm)
 
 ## Contributor:
 <p align="center">
